@@ -1,0 +1,5 @@
+Component: main
+Origin: GSDB
+Label: GSDB
+Architecture: amd64
+Description: GSDB - Database Management Tool

@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: GSDB
+Label: GSDB
+Codename: stable
+Date: Wed, 01 Apr 2026 04:33:39 UTC
+Architectures: amd64 arm64
+Components: main
+Description: GSDB - Database Management Tool
+MD5Sum:
+ 7b5a24c87feaf5fb6ed88e6ff2ee399d 437 main/binary-amd64/Packages
+ e18f5807269f2257fb8fca1fb2fa64f1 339 main/binary-amd64/Packages.gz
+ 4bc3fe921d62abc11ae893cd36900107 106 main/binary-amd64/Release
+ 99887c8c94af9580e6d80ba17e3e9379 437 main/binary-arm64/Packages
+ 53cf2a5a803bd0b4063faed59c889251 339 main/binary-arm64/Packages.gz
+ d11bc42d03f22401ac6095e0cb540d45 106 main/binary-arm64/Release
+SHA1:
+ 568c02207cd2c5a28acb772b0f8f348ad049c167 437 main/binary-amd64/Packages
+ 89eb95e4ebea694c90eca193b5e85f03403de0ec 339 main/binary-amd64/Packages.gz
+ db1a2100664db87b96f0a6beb597125dd0f7307e 106 main/binary-amd64/Release
+ cf43eb6f597d7d048e62efaadd7da3b61934c1b1 437 main/binary-arm64/Packages
+ 492da443ba7a3603ccf9431ca797f2f5bf572de6 339 main/binary-arm64/Packages.gz
+ d45ecb4f9b16c1f9989a9d09499a26b2b7e0d8fc 106 main/binary-arm64/Release
+SHA256:
+ 69c070b11072ee71f8dc00ea97c5e4aa2f34da290785ffea57964f65679daec3 437 main/binary-amd64/Packages
+ 324e141a59e74a901224f4f95af335f78d73a2e620a8b1e26be66b49c8d0c61d 339 main/binary-amd64/Packages.gz
+ ec62b430ea4dda31467c37584b4c04b7804acebbda524e5c3a0d7f06382507ed 106 main/binary-amd64/Release
+ 73a764b53e6a0e7d0d9e2d56f53406136875c52ae22688b659d94e743a3614c6 437 main/binary-arm64/Packages
+ 3afd37fa89c49428a0cfb4b01ce7d1febdfb2336f2170935d5f54bd30af183fc 339 main/binary-arm64/Packages.gz
+ 123f958341bf2b87f690fe5f5d62825901a778d620626227617015fb4882bccf 106 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEMhXOqCyGcrUSe8JhVGJh5XOHJx4FAmnMoCQACgkQVGJh5XOH
+Jx5d3BAAr04MMjnILyDp+8zRcZsZvs0kryuzw6AJ39RnFytflPy57KcdYZ0pbDXQ
+3ANKFr1GUakhKO+fgPawTP4iYOOO8OqDFTxVUxw7l6Yo3gk8fUlUkoTelA/PUwQC
+UaJtPlF3KfXmx5MYg73NYjHFWbuBnxmPiOliaYzBjrwinyKPA6TnRspkLkHZLvwv
+9QTiDFPSeCQ1C9gPncmKZpAhQzTO5wIHazhSg+iov1924L5t7ai94Ol36TuK22mS
+YRoCy6C1FBD/w0XJ89r3ox+XHY69nXzwHPw8CeB60fYeCDJeo1VP0yJKFON08/c+
+WSaReUcd2MDXSi+hC++hhr3cs0Bv8sn5bDztY/TPqJvkoBNX0G6ZZAxyeRuzKWL/
+a9id2Xsbuqf/IEg/lXD4sMB4LJr1+30QfEHUbe1ynHWknpkk2PovVHWTNDmcx1wH
+2h9IS2wR1me20OvWI9lqrYx2O9Pmd/wg4j4wG1LvDwYpaQBA91uFtYJw2+42795K
+WO+ytG+ACOGJMS1R7zZMofkvx97DBn9AqJcKR68M8aStYLqCLpQSqbc9ZaZzIkBy
+Bjcd6+9TwlwXuJfwuLAtSscMp6u0xkcgk0i4a7KZ3bZ3ihrBZdtgQEiFy7IodROc
+Icg0d215FFwZ/t3jxm9XdLQGbP0aGuQ2U2UPJsDB336eRMI3ZYQ=
+=Kcvq
+-----END PGP SIGNATURE-----

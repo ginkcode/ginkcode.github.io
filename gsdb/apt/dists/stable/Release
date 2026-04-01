@@ -1,0 +1,28 @@
+Origin: GSDB
+Label: GSDB
+Codename: stable
+Date: Wed, 01 Apr 2026 04:33:39 UTC
+Architectures: amd64 arm64
+Components: main
+Description: GSDB - Database Management Tool
+MD5Sum:
+ 7b5a24c87feaf5fb6ed88e6ff2ee399d 437 main/binary-amd64/Packages
+ e18f5807269f2257fb8fca1fb2fa64f1 339 main/binary-amd64/Packages.gz
+ 4bc3fe921d62abc11ae893cd36900107 106 main/binary-amd64/Release
+ 99887c8c94af9580e6d80ba17e3e9379 437 main/binary-arm64/Packages
+ 53cf2a5a803bd0b4063faed59c889251 339 main/binary-arm64/Packages.gz
+ d11bc42d03f22401ac6095e0cb540d45 106 main/binary-arm64/Release
+SHA1:
+ 568c02207cd2c5a28acb772b0f8f348ad049c167 437 main/binary-amd64/Packages
+ 89eb95e4ebea694c90eca193b5e85f03403de0ec 339 main/binary-amd64/Packages.gz
+ db1a2100664db87b96f0a6beb597125dd0f7307e 106 main/binary-amd64/Release
+ cf43eb6f597d7d048e62efaadd7da3b61934c1b1 437 main/binary-arm64/Packages
+ 492da443ba7a3603ccf9431ca797f2f5bf572de6 339 main/binary-arm64/Packages.gz
+ d45ecb4f9b16c1f9989a9d09499a26b2b7e0d8fc 106 main/binary-arm64/Release
+SHA256:
+ 69c070b11072ee71f8dc00ea97c5e4aa2f34da290785ffea57964f65679daec3 437 main/binary-amd64/Packages
+ 324e141a59e74a901224f4f95af335f78d73a2e620a8b1e26be66b49c8d0c61d 339 main/binary-amd64/Packages.gz
+ ec62b430ea4dda31467c37584b4c04b7804acebbda524e5c3a0d7f06382507ed 106 main/binary-amd64/Release
+ 73a764b53e6a0e7d0d9e2d56f53406136875c52ae22688b659d94e743a3614c6 437 main/binary-arm64/Packages
+ 3afd37fa89c49428a0cfb4b01ce7d1febdfb2336f2170935d5f54bd30af183fc 339 main/binary-arm64/Packages.gz
+ 123f958341bf2b87f690fe5f5d62825901a778d620626227617015fb4882bccf 106 main/binary-arm64/Release
