@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: GSDB
 Label: GSDB
 Codename: stable
-Date: Wed, 01 Apr 2026 08:03:15 UTC
+Date: Wed, 01 Apr 2026 08:51:01 UTC
 Architectures: amd64 arm64
 Components: main
 Description: GSDB - Database Management Tool
 MD5Sum:
- 5e1c7038be79c920ceb9436871bf0ef7 435 main/binary-amd64/Packages
- 39a6a4bde75e454e695230025a6ab97c 338 main/binary-amd64/Packages.gz
+ 1f429f8b4ab027dd0dadad708abe5010 435 main/binary-amd64/Packages
+ 032d64fe9e2bcd249b8ce9a6194e1a47 337 main/binary-amd64/Packages.gz
  4bc3fe921d62abc11ae893cd36900107 106 main/binary-amd64/Release
- 62915698b476658b36d88a376cd42995 435 main/binary-arm64/Packages
- a18094cd24b9415a785b161babef7f6a 338 main/binary-arm64/Packages.gz
+ edd7e40fd75ae737107d9fe3d5095a06 435 main/binary-arm64/Packages
+ 82817b9498c15d9d5dab9df1d0068322 338 main/binary-arm64/Packages.gz
  d11bc42d03f22401ac6095e0cb540d45 106 main/binary-arm64/Release
 SHA1:
- f5090ac0f29e230c2b60bcb1f418ed710bf6cec0 435 main/binary-amd64/Packages
- 81ac017b792c483c1fbd1b29d9d43e041caf2f79 338 main/binary-amd64/Packages.gz
+ 7e514271e352837e40956d6e78199a7200f4ab55 435 main/binary-amd64/Packages
+ a6e8a498acba2d69954441754c7141a347a16347 337 main/binary-amd64/Packages.gz
  db1a2100664db87b96f0a6beb597125dd0f7307e 106 main/binary-amd64/Release
- 0d703c8e82bbc17f8146cc3f2bacfbea1c32c305 435 main/binary-arm64/Packages
- 12f574e068ec77a98570b88cb199623ce0dbf5ed 338 main/binary-arm64/Packages.gz
+ 1114252cf9f4e5acd4b79679f48fc0401c935d0b 435 main/binary-arm64/Packages
+ f1979b29677ef586bb4f82c85c4b7c7e7cf6b0ee 338 main/binary-arm64/Packages.gz
  d45ecb4f9b16c1f9989a9d09499a26b2b7e0d8fc 106 main/binary-arm64/Release
 SHA256:
- 0e14cf52b53caf415b0197692bc946119c09b15bf0c089123edc4463d99e6bf4 435 main/binary-amd64/Packages
- 1124452d705bee1bdb4d01e6cd1db2bd033657c4a9fa61a61411bfdb88ba090b 338 main/binary-amd64/Packages.gz
+ b79e17902b26d0877255be95161e0d60c973fb57eec4e3272c49971d906b3216 435 main/binary-amd64/Packages
+ f8081d8e6b056f168069c9051a70dff3a1b1d001aec89edcaf1e3e31a0bdf251 337 main/binary-amd64/Packages.gz
  ec62b430ea4dda31467c37584b4c04b7804acebbda524e5c3a0d7f06382507ed 106 main/binary-amd64/Release
- 039bf777dbabe884891547907b78f16b04d5f033b7d049590e3241d8997dddc1 435 main/binary-arm64/Packages
- 91304c8dceb154856b7356a5be8450be08a6006973d0c3fb383897fb734b8e16 338 main/binary-arm64/Packages.gz
+ 70612f3d56cf555a2e87dc609c3a158d3ee7970fa34c91574c0e35d23f666bac 435 main/binary-arm64/Packages
+ 02e03d02cb31d6e9d62ab2a85f138e191c81d5db4e54ff1c74359b7b8664eace 338 main/binary-arm64/Packages.gz
  123f958341bf2b87f690fe5f5d62825901a778d620626227617015fb4882bccf 106 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEMhXOqCyGcrUSe8JhVGJh5XOHJx4FAmnM0UQACgkQVGJh5XOH
-Jx5hZxAAp0NlZw8VRun6gwuIwcTYBsrfdUTJtjfEAv/arJTNqrfuC6Ixv1Y4qIit
-8Jau6nCOxyIaAQnbk900XgKpSwFCl+AQPf1EdXGmhycYw6Hm6xj+9DbzOQcFSlU2
-5+osHTyOBzmQZDEXK8AiM5yrU/30eIvfApIea/Rj894ioTI9gnmTSaA4RtWBqbj2
-F5m1j4w7as5pxAA2RMRfHHXx8po/HNWG/cXxESrJf3qoXOkLcq9Ow8FWPMXAXsn0
-vCfEjlLebZWWEA46IF+H8Ds3EM2UXeV0NviwGfmrA2Kq1wllKhE4rrXH5a5pxEf5
-/1R3u0j2xLkZKkYfBwjgout0NsjLl3SvbrWAD3iYUpvPfTlhVB78TUI/aT6BUfUu
-JGv54JA8aporzLjV2XsyylF2TbQXwVgtuyhGze9spCsRJZSk4VJh/Q6TKV3ewKJP
-tkeXITxW5X/WeIzIrIFJJmXYDPMyVANQKnF8GME9TkQcZWWIsbcH/ERRq2Bkn/IZ
-QaISZL4sdJ9MPGWLuJh8BMNBo+ki3SkU9Zai54XXyqxVmwCDTxq+cV0qZ/VZmGnY
-kRRr0R7KQaXkCLxbVWeqBDPmr0rf9nUCTT0xlCyNr+/NtLYr4W1wnaEEBHL8GJ69
-fZIvPNwmBYENP9o/QsPYIoCirU0CU402iYsCtplXSh2FBa8WtfI=
-=nuPR
+iQIzBAEBCgAdFiEEMhXOqCyGcrUSe8JhVGJh5XOHJx4FAmnM3HUACgkQVGJh5XOH
+Jx5Fqg/+JduII/J/cySe8NWiJwXA3e+ALSu1OiVrHDu7qFCkm+bDy/3LeJYXYona
+zpldUuI0h5T9Uo4i2cjgczVBrF+c2/2xGLDovqhfzBCZJLyUJknKE+resm6Qy02v
+OmmWXH4bHziJLL95rK+2rJoP5AQxFM4Bugqs0CE8R3iKItNszX98RKl9ov0hRHY0
+RoN1g3kgm0ynf1DBUn2j8cYCaW0YTNdVtrH9/FnJzYrNh9y9QrDS4VIGxDIn5CUj
+a547Ychc6HyfoIy96wf8fS8RBA0Zwb8oBwhRePVKBtZyyvTfDNOU3AivLFKVFC/L
+MHLzn6T/bMm+ovTNsnVznw6eLrSZL+7NUc6WiYfpoOj5FVfigPK9+++6i71jH9px
+WeGa49onY+k20i8gDjfzujg24avOXjZ33RJkbDzYjRVq/yY3czPQ7Dh69qX7AdaO
+22uS5DvjixuSUnGYw7LW8UzhoriFnTOzb52HUdxwM7/afeeyH5GoiKW9sMDVFQ8R
+P+2L7/0B/psyp00eeGudoib9BMVZgnXWkD5ItFvn2l2cUZA/2L5G8R6k3Nw2zNeC
+k09BJdZe6r3z0iwVrtqHM6lfxhV6k3QnCKSUS31YBkF6wdgvc2MPmWHlQms4LAGq
+AfQCqwmsylqbUMlTH8NNz0L1aRbYFkzhi3pIqHdP83x99mpojTE=
+=dEN4
 -----END PGP SIGNATURE-----
