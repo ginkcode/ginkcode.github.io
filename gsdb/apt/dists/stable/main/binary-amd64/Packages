@@ -1,16 +1,16 @@
 Package: gsdb
-Version: 0.3.15
+Version: 0.3.16
 Architecture: amd64
-Installed-Size: 32889
+Installed-Size: 32886
 Maintainer: you
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/g/gsdb/gsdb_0.3.15_amd64.deb
-Size: 11794148
-SHA256: df99e115b4de616dac8932f5e06b63048d2109c8599212bad0cd7ef96fdd1727
-SHA1: d6956d98ab7446e7111fbb114a1242dd3e5d4da8
-MD5sum: a3e9ff19633941438a70e0c93caa8d60
+Filename: pool/main/g/gsdb/gsdb_0.3.16_amd64.deb
+Size: 11789198
+SHA256: 0e9432d15294f2672c8372729ca79c2cf794ede7f06eb0cff3ffc4154b007379
+SHA1: c02066b069c460acb6601bab864a74be43505953
+MD5sum: 566e2402c555a8245d2c1ed2744c02cd
 Description: A database management tool
  (none)
 
