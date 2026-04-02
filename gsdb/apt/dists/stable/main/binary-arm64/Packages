@@ -1,16 +1,16 @@
 Package: gsdb
-Version: 0.3.9
+Version: 0.3.10
 Architecture: arm64
-Installed-Size: 30861
+Installed-Size: 30879
 Maintainer: you
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/g/gsdb/gsdb_0.3.9_arm64.deb
-Size: 12005298
-SHA256: 289b300d11c787c501d40c56f7008533d04a04c5ada94ae81b896975b0ef40bf
-SHA1: fa8eda938193289a1f0ec4de0d7a833d62bd6bde
-MD5sum: 40321aa3e2e874d525b66947eef3e6e2
+Filename: pool/main/g/gsdb/gsdb_0.3.10_arm64.deb
+Size: 12006580
+SHA256: 07c213bce7144a18ce58b3ed270c175cedc51566a81973fe9cfea5c86102c589
+SHA1: 228673d72fb8bd0b352e823f4ca648a81b9fb864
+MD5sum: e5c01fa7e7c4d50bda41cf4a6c18ad65
 Description: A database management tool
  (none)
 
