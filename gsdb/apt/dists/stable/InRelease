@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: GSDB
 Label: GSDB
 Codename: stable
-Date: Sun, 05 Apr 2026 04:32:27 UTC
+Date: Mon, 06 Apr 2026 11:57:09 UTC
 Architectures: amd64 arm64
 Components: main
 Description: GSDB - Database Management Tool
 MD5Sum:
- 24e02ea6c7f6555047fc99f33a3029b0 437 main/binary-amd64/Packages
- 5606950e5c2e3a3d5e62fd06877f61d7 341 main/binary-amd64/Packages.gz
+ df38c198ad041cce7c2363442aee103e 437 main/binary-amd64/Packages
+ 80567bef7fe17d9855b5d491fc91f07f 339 main/binary-amd64/Packages.gz
  4bc3fe921d62abc11ae893cd36900107 106 main/binary-amd64/Release
- 21dfe5220eab8d58bfdc7fd8043e2b0d 437 main/binary-arm64/Packages
- 96d4b9b4ef47a133469d4a3b9d6cc171 338 main/binary-arm64/Packages.gz
+ b82b4cf26d8a6b238f31a14fd7ad65dc 437 main/binary-arm64/Packages
+ e556b49effea6335fa387fde0c95a765 340 main/binary-arm64/Packages.gz
  d11bc42d03f22401ac6095e0cb540d45 106 main/binary-arm64/Release
 SHA1:
- b065c7e8531310026a9de557bf99ec66f26258b6 437 main/binary-amd64/Packages
- 6691ebbed39f6d079bf9f749044e270a421fc75a 341 main/binary-amd64/Packages.gz
+ 55238f6af9fdef83e8dc142b5987ad37ca6da234 437 main/binary-amd64/Packages
+ 76ca92cd53680dd491cc0a63eada313c19bd0080 339 main/binary-amd64/Packages.gz
  db1a2100664db87b96f0a6beb597125dd0f7307e 106 main/binary-amd64/Release
- 392eb51197ec8c117484c5abbf4ecf8b6b2abf09 437 main/binary-arm64/Packages
- adad560ab08c7b6470c1c95309117810cd7ed7bf 338 main/binary-arm64/Packages.gz
+ 0f40fb5db4c9148473db882ddb965edad8f441dd 437 main/binary-arm64/Packages
+ d4d1cf78b1779a294272f0c893cb77a1e126e1f7 340 main/binary-arm64/Packages.gz
  d45ecb4f9b16c1f9989a9d09499a26b2b7e0d8fc 106 main/binary-arm64/Release
 SHA256:
- 90dba00962f951925db8351455b5d59716452de1272f7ddd6c4221fdfcf30fbf 437 main/binary-amd64/Packages
- 1ab719ca25c4d56f813e7a75e3cc0fd4f1740db0abffc4c4e625ecca9b14728b 341 main/binary-amd64/Packages.gz
+ b50019f77cb2387a939d99ec50174d5a9ae230b530365694ffbb373bb6c80d07 437 main/binary-amd64/Packages
+ 59155a756273530051b70fb6abfc97af4f1e5de782569105b134a13d6e9bd2f9 339 main/binary-amd64/Packages.gz
  ec62b430ea4dda31467c37584b4c04b7804acebbda524e5c3a0d7f06382507ed 106 main/binary-amd64/Release
- 53aca5ea0f152c4ffcdc70a60277badaa24c4175b1e9496247dde714821fd9b7 437 main/binary-arm64/Packages
- 95bf718db5881221205abf839606d03fe8dc8feeefa369512c4f8e78d43708bc 338 main/binary-arm64/Packages.gz
+ e603023129d69906298758b07084e39eeaf181136b252d77f7d78debd2bd44e3 437 main/binary-arm64/Packages
+ 25a1f8b2d60bcb3aa5020bef995f09397bbe4ad73faf68ded5407fdc45340686 340 main/binary-arm64/Packages.gz
  123f958341bf2b87f690fe5f5d62825901a778d620626227617015fb4882bccf 106 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEMhXOqCyGcrUSe8JhVGJh5XOHJx4FAmnR5dsACgkQVGJh5XOH
-Jx5V+g//XmoK6os2KTcJdnOSQ4KwpjCsL5lXYx9qA6ZiUKYE/K4I0kpFj2SXDslO
-nP1ZXLBWvb/ilBPWxHs25xNi0pUZLEjpfv4siNzgGxZzGPANKGA1x0ikUd0BsLIL
-vVvR9EpqlkFPpFjwR0o7hb58BSFYw7SA2lR12yQ0ZzfV5pxuPByAVaJtP326xKQT
-3DGguqC1/Gjh+sJlVxQ38yvPAjOhpHf5c3udYBQ/4GITHnb4YJ85SfC4kyfAMhv8
-IszK5ETN8nKmbxFr7Fyb/kHyjkd4qsnOaJQ+EckdKQXVSTpW8a8IzO34fUrdmS+e
-Xw1KzyQWr33MtPoK9HN+t6fWpd7rHGQOtnCKAbd625H4wLR5Xj+l/A/ouOuHhl++
-+bRcWWifsq7ayO1qn9zFgosupZBktLG0v/CsthXyrAuen/jhq66NvofTdqwtTCbe
-aH8/8glDlX+dk3XnMwNehLDC0fBoXwfAnyDOEdyZEvbvX1k7mhfADAtSKE0qvoOO
-7hYryaYdEaMhQY7oYnk5x0wtKRaPygMYi2/3/K9CXSDjCsk+kqNNQ8moRXKCllqq
-Z8He6I0Srh8h41MupcD+3+BfTAN3qqSY8Ic5qrJff6MVfBDwAElcHikQD13XAEzp
-1fbNyDC1tJytpjV6lH8lODTfMXjLnJ81ck6FGcKd9mjiu6f/h+g=
-=e1Vo
+iQIzBAEBCgAdFiEEMhXOqCyGcrUSe8JhVGJh5XOHJx4FAmnTn5UACgkQVGJh5XOH
+Jx7EnA//XK5TNowsx4Xoyn/ZioiB9x0TpoNpSnWBi0H37P5waTu0Y9uaQ3dr2BRy
+TYP/FSjT1b2jJp6cw72PSOrDARuQEFi4Z1QKSYKa+XnK4TT+KUsqVsQV1FSSJK5N
+8jrOFgmawUKlsjMVcKmVUVyEydwjDfegLmOET2x0oyYrVjKi7Ao9nDXFW59je6AJ
+Bl2Ln3tHpgbRMP2wJHCKEqfMZCspwX77+NOxPd8k5Fg3LBoQJt3ObPZ1epOL331u
+D9NGAOQFEhHoa/Ee44CE5CALtm84BiZiYZDyHcwcQ/0I/IaDOLXbi5md4EeiG5vN
+v7+WMn9Ca1XZHIyShCCCuBGOUC9sITb6s7djsT8UY/mGzR+OCYPOgwY4y9/+409O
+enIWJcmyHvl7o+pMVQxd+WZRCZzow6+nylsWcuT51le+KxTSc61oXJednnP/FzWN
+PllWxupn0fjM9hMa2z68aekeTfEGsfkZRhxhnbHANMIFiKKAqeG5R0uVSk6Yoo6k
+1klFwcdh8xPHXd6LwUbyJbTe4vfbYxa7YP5eVJP352QgvWnuU2NON722213oIDt1
+dm9+B3oxxLPzn8H9DCrtpemnv5+W/vDXoGJrJbXZ75x7JEgfQ/eolnMszJIJhSpq
+IzUmW46gpeFeCM+fW0373JUNbOvfQc6a/h3XsY0cJOkWr5FN8r0=
+=xQPO
 -----END PGP SIGNATURE-----
