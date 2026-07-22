@@ -1,28 +1,28 @@
 Origin: GSDB
 Label: GSDB
 Codename: stable
-Date: Wed, 22 Jul 2026 08:10:44 UTC
+Date: Wed, 22 Jul 2026 15:17:14 UTC
 Architectures: amd64 arm64
 Components: main
 Description: GSDB - Database Management Tool
 MD5Sum:
- d288fa035c5c49aef679ad122ccaa299 437 main/binary-amd64/Packages
- c03f2777d5e85ac3151a3abec1f3a2c3 340 main/binary-amd64/Packages.gz
+ 5383d06456731dd0adeb97fa285436f7 437 main/binary-amd64/Packages
+ 9c4929239a569ccbfbe130f6e5e2a70a 340 main/binary-amd64/Packages.gz
  4bc3fe921d62abc11ae893cd36900107 106 main/binary-amd64/Release
- 4ddeb30d8d17d5a7265f4cf0e144ec9a 437 main/binary-arm64/Packages
- d929eebbdbf07197a3d3723f5a20aea9 339 main/binary-arm64/Packages.gz
+ 1efbd0bb38070d1eb6f429e7482677c6 437 main/binary-arm64/Packages
+ 1729a2a73b043c78a5e5ae968959d864 339 main/binary-arm64/Packages.gz
  d11bc42d03f22401ac6095e0cb540d45 106 main/binary-arm64/Release
 SHA1:
- 20f60ac7cbecfc51629719d125dd47177ce81a83 437 main/binary-amd64/Packages
- 99e4e5574648eb40eb13193b6ea0d55d8971c994 340 main/binary-amd64/Packages.gz
+ 633779f1f2a40830e985693b457f2a6b3c3d0db0 437 main/binary-amd64/Packages
+ 5e9f1717be274a84892fa80e558ee924962e3176 340 main/binary-amd64/Packages.gz
  db1a2100664db87b96f0a6beb597125dd0f7307e 106 main/binary-amd64/Release
- 10d4d72037f6ab61abeb15df1b21379fe91fcfc1 437 main/binary-arm64/Packages
- 0abc476a5f65666b8de150ef943b2b88c2958167 339 main/binary-arm64/Packages.gz
+ a0623a043ec6260bd896f079547f8abf12ac472d 437 main/binary-arm64/Packages
+ 950b9f343ee77b2b7e1749f885fe120809fc1e8a 339 main/binary-arm64/Packages.gz
  d45ecb4f9b16c1f9989a9d09499a26b2b7e0d8fc 106 main/binary-arm64/Release
 SHA256:
- fe7a65bd7a851ca32ca524206d854a1a4810b36a9d972a34c4f03e8c0c5e7299 437 main/binary-amd64/Packages
- 6ff40b24ecb191688c319a839c60284b8e09b40978e65492e774125b4bc5f8f7 340 main/binary-amd64/Packages.gz
+ 7049f93519ee9cad4ec9883d110ba3bf18a09278b7c8ff8f8a5c0def8a309d19 437 main/binary-amd64/Packages
+ 304bae62fe91cb2d5d3e7f1bb7378765b5dd2c121e600f049b731e11bc91581b 340 main/binary-amd64/Packages.gz
  ec62b430ea4dda31467c37584b4c04b7804acebbda524e5c3a0d7f06382507ed 106 main/binary-amd64/Release
- c8cf854556e77063c09f9d3e78e7e8a25d4d12c58f4bed3d934b4dd57d79cbc1 437 main/binary-arm64/Packages
- b1f4d94426a07843c3dcd9a234d858fc0983c9c068f5162717a275ad6609c0fe 339 main/binary-arm64/Packages.gz
+ 92de228ee1259690d6411ad0355d6a06755019af1a37053732115ce7711149bf 437 main/binary-arm64/Packages
+ 7f0f3a8f753c78fa31f18fc9149690913a97e2cdde73515fc2c063f81d4c5a37 339 main/binary-arm64/Packages.gz
  123f958341bf2b87f690fe5f5d62825901a778d620626227617015fb4882bccf 106 main/binary-arm64/Release
